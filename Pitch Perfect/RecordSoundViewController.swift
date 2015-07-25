@@ -34,6 +34,7 @@ class RecordSoundViewController: UIViewController, AVAudioRecorderDelegate {
 		lblRecording.text = "Tap to record"
 		btnStop.hidden = true
 		btnPause.hidden = true
+		btnRecord.hidden = false
 		recording = false
 	}
 
