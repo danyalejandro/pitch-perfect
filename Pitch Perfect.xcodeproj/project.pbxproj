@@ -13,7 +13,6 @@
 		A1BC2F701B62C7BD000EC4E5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1BC2F6F1B62C7BD000EC4E5 /* Images.xcassets */; };
 		A1BC2F7F1B62C7BD000EC4E5 /* Pitch_PerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BC2F7E1B62C7BD000EC4E5 /* Pitch_PerfectTests.swift */; };
 		A1CE361F1B62F6A0005A06EE /* PlaySoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CE361E1B62F6A0005A06EE /* PlaySoundViewController.swift */; };
-		A1CE36211B62FC20005A06EE /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A1CE36201B62FC20005A06EE /* movie_quote.mp3 */; };
 		A1CE36221B6339CC005A06EE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1BC2F711B62C7BD000EC4E5 /* LaunchScreen.xib */; };
 		A1E2F1DE1B63C80100DE0E9C /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E2F1DD1B63C80100DE0E9C /* RecordedAudio.swift */; };
 /* End PBXBuildFile section */
@@ -40,7 +39,6 @@
 		A1BC2F7D1B62C7BD000EC4E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1BC2F7E1B62C7BD000EC4E5 /* Pitch_PerfectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pitch_PerfectTests.swift; sourceTree = "<group>"; };
 		A1CE361E1B62F6A0005A06EE /* PlaySoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundViewController.swift; sourceTree = "<group>"; };
-		A1CE36201B62FC20005A06EE /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = movie_quote.mp3; path = ../../../Udacity/movie_quote.mp3; sourceTree = "<group>"; };
 		A1E2F1DD1B63C80100DE0E9C /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,7 +96,6 @@
 		A1BC2F661B62C7BD000EC4E5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A1CE36201B62FC20005A06EE /* movie_quote.mp3 */,
 				A1BC2F671B62C7BD000EC4E5 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -204,7 +201,6 @@
 			files = (
 				A1CE36221B6339CC005A06EE /* LaunchScreen.xib in Resources */,
 				A1BC2F6E1B62C7BD000EC4E5 /* Main.storyboard in Resources */,
-				A1CE36211B62FC20005A06EE /* movie_quote.mp3 in Resources */,
 				A1BC2F701B62C7BD000EC4E5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
